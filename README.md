@@ -490,8 +490,6 @@ I've also developed a trading bot for Polymarket built with **Rust**, providing 
 
 <img width="1917" height="942" alt="Rust Trading Bot" src="https://github.com/user-attachments/assets/08a5c962-7f8b-4097-98b6-7a457daa37c9" />
 
-**Video Demo:** [Watch on YouTube](https://youtu.be/X5l8x4Ae2QQ)
-
 ### Rust Trading Bot Features
 
 - **High Performance** - Built with Rust for maximum speed and efficiency
